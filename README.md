@@ -10,7 +10,7 @@ This project brings together a visual audit report, an interactive website, time
 
 | Resource | Access |
 | --- | --- |
-| Live report | [site link] |
+| Live report | https://pickme-accessibility-audit.netlify.app/ |
 | PDF report | [Download the audit](public/reports/PickMe_Audit_Part1.pdf) |
 | Evidence package | [Screenshots, audio excerpts, and data](public/downloads/PickMe_Audit_Evidence.zip) |
 | Recorded walkthrough | [Watch on YouTube](https://www.youtube.com/watch?v=vrg4xJkxvxs) |
