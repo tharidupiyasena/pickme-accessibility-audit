@@ -1,0 +1,189 @@
+[
+  {
+    "id": "E01",
+    "timestamp": "04:27.5",
+    "caption": "Account: Membership focused",
+    "source_frame": "frame_054.png",
+    "crop": [
+      0,
+      60,
+      572,
+      1090
+    ],
+    "file": "evidence/E01.png"
+  },
+  {
+    "id": "E02",
+    "timestamp": "04:47.5",
+    "caption": "Account: Saved Addresses focused",
+    "source_frame": "frame_058.png",
+    "crop": [
+      0,
+      60,
+      572,
+      1090
+    ],
+    "file": "evidence/E02.png"
+  },
+  {
+    "id": "E03",
+    "timestamp": "09:07.5",
+    "caption": "Ride: pickup value focused",
+    "source_frame": "frame_110.png",
+    "crop": [
+      0,
+      60,
+      572,
+      1215
+    ],
+    "file": "evidence/E03.png"
+  },
+  {
+    "id": "E04",
+    "timestamp": "09:17.5",
+    "caption": "Ride: destination value focused",
+    "source_frame": "frame_112.png",
+    "crop": [
+      0,
+      60,
+      572,
+      1215
+    ],
+    "file": "evidence/E04.png"
+  },
+  {
+    "id": "E05",
+    "timestamp": "01:37.5",
+    "caption": "Home: destination search focused",
+    "source_frame": "frame_020.png",
+    "crop": [
+      0,
+      180,
+      572,
+      1205
+    ],
+    "file": "evidence/E05.png"
+  },
+  {
+    "id": "E06",
+    "timestamp": "01:52.5",
+    "caption": "Home: destination-search contrast crop",
+    "source_frame": "frame_023.png",
+    "crop": [
+      25,
+      550,
+      547,
+      650
+    ],
+    "file": "evidence/E06.png"
+  },
+  {
+    "id": "E07",
+    "timestamp": "02:02.5",
+    "caption": "Home: Check button contrast crop",
+    "source_frame": "frame_025.png",
+    "crop": [
+      395,
+      118,
+      527,
+      202
+    ],
+    "file": "evidence/E07.png"
+  },
+  {
+    "id": "A01",
+    "timestamp": "04:22-05:13",
+    "caption": "Account menu announcements",
+    "file": "evidence/A01.m4a"
+  },
+  {
+    "id": "A02",
+    "timestamp": "09:00-09:23",
+    "caption": "Pickup and drop-off announcements",
+    "file": "evidence/A02.m4a"
+  },
+  {
+    "id": "A03",
+    "timestamp": "01:28-02:01",
+    "caption": "Home search and promotion announcements",
+    "file": "evidence/A03.m4a"
+  },
+  {
+    "id": "E08",
+    "timestamp": "00:47.5",
+    "caption": "Home: Rides service tile focused",
+    "source_frame": "frame_010.png",
+    "crop": [
+      0,
+      180,
+      572,
+      1090
+    ],
+    "file": "evidence/E08.png"
+  },
+  {
+    "id": "E09",
+    "timestamp": "02:02.5",
+    "caption": "Home promotions: context for Check contrast",
+    "source_frame": "frame_025.png",
+    "crop": [
+      0,
+      60,
+      572,
+      1090
+    ],
+    "file": "evidence/E09.png"
+  },
+  {
+    "id": "E10",
+    "timestamp": "04:27.5",
+    "caption": "Account: enlarged Membership row",
+    "source_frame": "frame_054.png",
+    "crop": [
+      0,
+      70,
+      572,
+      200
+    ],
+    "file": "evidence/E10.png"
+  },
+  {
+    "id": "E11",
+    "timestamp": "04:47.5",
+    "caption": "Account: enlarged Saved Addresses row",
+    "source_frame": "frame_058.png",
+    "crop": [
+      0,
+      350,
+      572,
+      480
+    ],
+    "file": "evidence/E11.png"
+  },
+  {
+    "id": "E12",
+    "timestamp": "09:07.5",
+    "caption": "Pickup and destination: enlarged panel",
+    "source_frame": "frame_110.png",
+    "crop": [
+      0,
+      930,
+      572,
+      1190
+    ],
+    "file": "evidence/E12.png"
+  },
+  {
+    "id": "E13",
+    "timestamp": "01:37.5",
+    "caption": "Home: enlarged destination search with focus",
+    "source_frame": "frame_020.png",
+    "crop": [
+      0,
+      548,
+      572,
+      650
+    ],
+    "file": "evidence/E13.png"
+  }
+]

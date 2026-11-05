@@ -1,0 +1,73 @@
+category,subtopic,status,evidence_or_limitation
+Screen Reader Compatibility,TalkBack support,Partial,Focus navigation and screen transitions recorded; ACC-001/002/003; no global pass.
+Screen Reader Compatibility,Accessibility labels,Issue,ACC-001/002; node/settings confirmation pending.
+Screen Reader Compatibility,Content descriptions,Partial,ACC-003; image alternatives not fully verified.
+Screen Reader Compatibility,Reading order,Partial,Sampled visual focus sequence only; no exhaustive sequential run.
+Screen Reader Compatibility,Spoken feedback,Issue,ACC-001/002/003; machine-transcribed audio.
+Screen Reader Compatibility,Announcements,Partial,Some screen/role announcements transcribed; completeness unverified.
+Screen Reader Compatibility,Decorative elements,Partial,Icon/promo focus observed; decorative vs informative classification unresolved.
+Navigation & Interaction,Swipe navigation,Partial,Many controls reached; no exhaustive reachability test.
+Navigation & Interaction,Focus management,Partial,Navigation shown; modal and return-focus behaviour not fully tested.
+Navigation & Interaction,Logical focus order,Partial,ACC-003; exact swipe/touch input sequence not available.
+Navigation & Interaction,Keyboard navigation,Not tested,No external keyboard session.
+Navigation & Interaction,Back navigation,Observed only,Return from legal pages and ride screen visible; not every state.
+Navigation & Interaction,Gesture alternatives,Not tested,"No drag, multi-pointer or map alternative completion test."
+Visual Accessibility,Color contrast,Issue,ACC-004/005; approximate recording measurements.
+Visual Accessibility,Text readability,Partial,Recorded default appearance; ACC-004/005.
+Visual Accessibility,Font scaling,Not tested,No increased system font-size recording.
+Visual Accessibility,Screen magnification,Not tested,No magnification session.
+Visual Accessibility,Color independence,Not tested,No systematic state/meaning review.
+Visual Accessibility,Non-text contrast,Not tested,Control boundaries/icons not measured.
+Touch Accessibility,Touch target sizes,Not tested,Video pixels cannot establish actual touch bounds or dp.
+Touch Accessibility,Spacing,Not tested,Requires actual interactive bounds/device metrics.
+Touch Accessibility,Accidental activation,Not tested,No pointer-cancellation or activation test.
+Touch Accessibility,Complex gestures,Not tested,No gesture-dependent action exercised.
+Touch Accessibility,Dragging alternatives,Not tested,Map/drag alternatives not completed.
+Forms & Input Accessibility,Input labels,Issue,ACC-002; route-field speech sampled.
+Forms & Input Accessibility,Required fields,Not tested,No form submission.
+Forms & Input Accessibility,Error identification,Not tested,No invalid/missing input exercise.
+Forms & Input Accessibility,Error suggestions,Not tested,No validation/recovery exercise.
+Forms & Input Accessibility,Autocomplete,Not tested,No typed search or OTP session.
+Forms & Input Accessibility,Accessible validation,Not tested,No validation events.
+Dynamic Content & Feedback,Loading indicators,Partial,Activities loading appearance briefly visible; speech/status unverified.
+Dynamic Content & Feedback,Status messages,Not tested,No controlled status-message event.
+Dynamic Content & Feedback,Pop-ups,Partial,Launch promotion appears; close control receives focus. Full containment untested.
+Dynamic Content & Feedback,Dialogs,Not tested,No app confirmation/error dialog tested.
+Dynamic Content & Feedback,Notifications,Partial,Empty Notifications page opened; delivery/readout untested.
+Dynamic Content & Feedback,Live updates,Not tested,"No live driver, price or route updates."
+Dynamic Content & Feedback,Focus changes,Partial,Some transitions visible; not enough to pass focus restoration.
+Content & Information Structure,Headings,Partial,Legal headings visually present; heading navigation not tested.
+Content & Information Structure,Meaningful labels,Issue,ACC-001/002/003.
+Content & Information Structure,Button names,Issue,ACC-001/002; other controls sampled only.
+Content & Information Structure,Instructions,Partial,Map meet-up message visible and transcribed; no comprehension test.
+Content & Information Structure,Icon descriptions,Partial,ACC-003; unlabeled speech near ride transition needs precise attribution.
+Content & Information Structure,Language identification,Not tested,English appearance only; no node-language/localisation tests.
+Maps & Location Accessibility,Map alternatives,Not tested,No completed text/list route-selection test.
+Maps & Location Accessibility,Accessible location selection,Partial,ACC-002; actual selection not exercised.
+Maps & Location Accessibility,Pickup/drop-off selection,Issue,ACC-002; field labels sampled; completion untested.
+Maps & Location Accessibility,Location announcements,Partial,Map marker speech captured around 08:39-08:45; address/value updates untested.
+Maps & Location Accessibility,Nonvisual route information,Not tested,No route/fare/trip details reached.
+Task Completion & User Journeys,Account registration,Not tested,Existing logged-in account.
+Task Completion & User Journeys,Login,Not tested,No authentication flow.
+Task Completion & User Journeys,Searching,Not tested,Home prompt explored; query/results not exercised.
+Task Completion & User Journeys,Booking,Not tested,Ride screen reached; no confirmation.
+Task Completion & User Journeys,Payment,Not tested,Account payment row not activated; no checkout.
+Task Completion & User Journeys,Cancellation,Not tested,No booking/cancellation.
+Task Completion & User Journeys,Confirmation,Not tested,No submitted transaction.
+Task Completion & User Journeys,Error recovery,Not tested,No controlled failure or recovery.
+Cognitive Accessibility,Consistent navigation,Partial,Common bottom tabs visible; cross-service consistency untested.
+Cognitive Accessibility,Predictable interactions,Partial,Several pages opened; no complete controlled task.
+Cognitive Accessibility,Clear instructions,Issue,ACC-001/002/003 create naming/interpretation burdens.
+Cognitive Accessibility,Understandable error messages,Not tested,No errors induced.
+Cognitive Accessibility,Time limits,Not tested,"No OTP, timed offer or session-expiry test."
+Device & Assistive Technology Compatibility,TalkBack,Partial,"HONOR X7c, Android 14; version/settings not recorded."
+Device & Assistive Technology Compatibility,Switch Access,Not tested,No switch session.
+Device & Assistive Technology Compatibility,Voice Access,Not tested,No voice-control session.
+Device & Assistive Technology Compatibility,External keyboards,Not tested,No hardware-keyboard session.
+Device & Assistive Technology Compatibility,Android display settings,Not tested,Default recorded appearance; font/display changes untested.
+Device & Assistive Technology Compatibility,Landscape orientation,Not tested,Portrait recording only.
+Accessibility Compliance & Reporting,WCAG 2.2 success criteria,Partial,"Candidate A/AA mappings per finding, interpreted for native software using WCAG2ICT."
+Accessibility Compliance & Reporting,Severity ratings,Completed for findings,"Custom 1-4 user-impact rubric, separate from A/AA/AAA."
+Accessibility Compliance & Reporting,Reproducibility,Partial,Version/device and steps known; TalkBack version/settings and second run pending.
+Accessibility Compliance & Reporting,Evidence collection,Completed for this clip,"Timestamped cropped frames, audio excerpts, source hashes and measurements."
+Accessibility Compliance & Reporting,Remediation recommendations,Completed for findings,Specific corrections and retest instructions per finding.
